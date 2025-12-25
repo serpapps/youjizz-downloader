@@ -2,26 +2,19 @@
 
 
 ## Related
--
 
 ---
-
 <details>
-
 <summary>
   Research
 </summary>
-
 # How to Download YouJizz Videos: Technical Analysis of Stream Patterns, CDNs, and Download Methods
-
 *A comprehensive research document analyzing YouJizz's video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
-
 **Authors**: SERP Apps  
 **Date**: December 2025  
 **Version**: 1.0
-
 ---
-
+- [YouJizz Downloader gist](https://gist.github.com/devinschumacher/b4834cf231c2305daa59afa7ad3a99d2)
 ## Abstract
 
 This research document outlines YouJizz watch page patterns, JSON configuration payloads containing encodings, and CDN delivery patterns for MP4 and HLS assets.
